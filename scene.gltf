@@ -402,13 +402,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Lamp1_normal.png"
+      "uri": "Lamp1_normal.png"
     },
     {
-      "uri": "textures/Lamp1_metallicRoughness.png"
+      "uri": "Lamp1_metallicRoughness.png"
     },
     {
-      "uri": "textures/Lamp1_baseColor.jpeg"
+      "uri": "Lamp1_baseColor.jpeg"
     }
   ],
   "materials": [
